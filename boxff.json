@@ -20,12 +20,12 @@
   "AD_NETWORK": "0",
 
   "FLURRY_ID": "0",
-  "RATE": "0",
+  "RATE": "1",
   "SA_ID": "0",
   "SHOW": "1",
-  "UPDATE": "https://play.google.com/store/apps/details?id=com.elbotola",
+  "UPDATE": "1",
   "UPDATE_CONTENT": "Please UPDATE the app to continue using free. (Your musics will be backed up)",
   "RATE_CONTENT": "Please Give us your feedback",
-  "NOT_NOW": "NOT",
+  "NOT_NOW": "NOW",
   "NEW_APP": "https://play.google.com/store/apps/details?id=com.elbotola"
 }
