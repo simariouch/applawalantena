@@ -17,7 +17,7 @@
   "ADMOB_INTER_THREE": "ca-app-pub-3940256099942544/1033173712",
   "ADMOB_INTER_FOUR": "ca-app-pub-3940256099942544/1033173712",
   
-  "AD_NETWORK": "0",
+  "AD_NETWORK": "admob",
 
   "FLURRY_ID": "0",
   "RATE": "1",
